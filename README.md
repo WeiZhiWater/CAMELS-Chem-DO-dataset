@@ -1,2 +1,2 @@
 # CAMELS-chem-dataset
-The CAMELS-Chem dataset is built as a supplement to the Catchment Attribute for Large Sample Studies that includes hydrologic, climatic, and catchment attributes  (53). CAMEL-Chem compiles U.S. Geological Survey (USGS) water chemistry and instantaneous discharge from 1980 through 2014 in 493 headwater catchments.
+The CAMELS-Chem dataset (Sterle et al., in preparation) is built as a supplement to the Catchment Attribute for Large Sample Studies that includes hydrologic, climatic, and catchment attributes (Addor et al., 2017; Newman et al., 2015). CAMEL-Chem compiles U.S. Geological Survey (USGS) water chemistry and instantaneous discharge from 1980 through 2014 in 493 headwater catchments.
