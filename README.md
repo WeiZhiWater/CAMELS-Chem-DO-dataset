@@ -3,6 +3,8 @@ The CAMELS-Chem dataset (Sterle et al., in preparation) is built as a stream che
 
 The newly developed dataset, CAMELS-Chem, compiles USGS water chemistry and instantaneous discharge from 1980 through 2014 in 493 headwater catchments. It includes common stream water chemistry related constituents (pH, water temperature, dissolved oxygen, Na, K, Ca, Mg, Al, Cl, NO3, SO4, Si, HCO3, organic nitrogen, total nitrogen, dissolved organic carbon, total organic carbon, and etc), as well as an overlapping set of annual wet deposition load from the National Atmospheric Deposition Program (Br, Ca, Cl, H, K, Mg, N, Na, NH4, NO3, SO4). 
 
+***This page only includes DO records from the CAMELS-Chem database while the whole database will be available with the CAMELS-Chem manuscript (Sterle et al., in preparation).***
+
 #### Reference:
 - Sterle, G., Perdrial, J.N., Li, L., Adler, T., Underwood, K., Rizzo, D., Wen, H., Addor, N., Newman, A. and Harpold, A., Augmenting CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) with Atmospheric and Stream Water Chemistry Data (in preparation).
 
