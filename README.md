@@ -5,6 +5,10 @@ The newly developed dataset, CAMELS-Chem, compiles USGS water chemistry and inst
 
 ***This page includes the DO records from the CAMELS-Chem database used in [Zhi et al., 2021](https://doi.org/10.1021/acs.est.0c06783). The entire database will be available when the CAMELS-Chem manuscript is published (Sterle et al., in preparation).***
 
+<p align="center">
+  <img src="/figure/DO map.png" alt="Study site: Coal Creek Watershed" width="800">
+</p>
+
 #### Reference:
 - **Zhi, W.**, Feng, D., Tsai, W. P., Sterle, G., Harpold, A., Shen, C., & Li, L. (2021). From Hydrometeorology to River Water Quality: Can a Deep Learning Model Predict Dissolved Oxygen at the Continental Scale?. *Environmental Science & Technology*, [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783)
 
