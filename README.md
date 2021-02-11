@@ -6,8 +6,10 @@ The newly developed dataset, CAMELS-Chem, compiles USGS water chemistry and inst
 ***This page includes the DO records from the CAMELS-Chem database used in [Zhi et al., 2021](https://doi.org/10.1021/acs.est.0c06783). The entire database will be available when the CAMELS-Chem manuscript is published (Sterle et al., in preparation).***
 
 #### Reference:
+- **Zhi, W.**, Feng, D., Tsai, W. P., Sterle, G., Harpold, A., Shen, C., & Li, L. (2021). From Hydrometeorology to River Water Quality: Can a Deep Learning Model Predict Dissolved Oxygen at the Continental Scale?. *Environmental Science & Technology*, [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783)
+
 - Sterle, G., Perdrial, J.N., Li, L., Adler, T., Underwood, K., Rizzo, D., Wen, H., Addor, N., Newman, A. and Harpold, A., Augmenting CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) with Atmospheric and Stream Water Chemistry Data (in preparation).
 
-- Addor, N., Newman, A.J., Mizukami, N. and Clark, M.P., 2017. The CAMELS data set: catchment attributes and meteorology for large-sample studies. Hydrology and Earth System Sciences (HESS), 21(10), pp.5293-5313.
+- Addor, N., Newman, A.J., Mizukami, N. and Clark, M.P., 2017. The CAMELS data set: catchment attributes and meteorology for large-sample studies. *Hydrology and Earth System Sciences (HESS)*, 21(10), pp.5293-5313.
 
-- Newman, A.J., Clark, M.P., Sampson, K., Wood, A., Hay, L.E., Bock, A., Viger, R.J., Blodgett, D., Brekke, L., Arnold, J.R. and Hopson, T., 2015. Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance. Hydrology and Earth System Sciences (HESS), 19(1), p.209.
+- Newman, A.J., Clark, M.P., Sampson, K., Wood, A., Hay, L.E., Bock, A., Viger, R.J., Blodgett, D., Brekke, L., Arnold, J.R. and Hopson, T., 2015. Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance. *Hydrology and Earth System Sciences (HESS)*, 19(1), p.209.
